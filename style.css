@@ -1,0 +1,29 @@
+footer {
+	margin: 0;
+	background-color: rgb(85, 85, 85);
+	color: #fff;
+	height: 120px;
+}
+
+.footer-title {
+	font-family: "Lucida Grade";
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-style: bold;
+	font-size: 25px;
+}
+
+.footer-subtitle {
+	font-size: 15px;
+	padding: 0 20px;
+	font-family: Arial;
+}
+
+.copyright {
+	margin: 15px;
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+	font-family: Arial;
+}
